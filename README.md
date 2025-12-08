@@ -1,7 +1,4 @@
 👋 Hi, I'm Ayush Patel
-LinkedIn
-Email
-Location
 
 Full-Stack Developer | Java • Spring Boot • React.js • AWS • Apache Kafka
 
