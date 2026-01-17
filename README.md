@@ -41,18 +41,19 @@ Redis
 
 📌 Featured Projects
 🏥 Cloud-Native Healthcare Analytics Platform
-Spring Boot • React.js • Kafka • AWS • Kubernetes
+Spring Boot • React.js • Kafka
 
 Built 5+ Spring Boot microservices with React frontend on AWS
-Implemented Apache Kafka for real-time streaming (10K+ msg/sec)
 Achieved 99.9% uptime with Kubernetes orchestration
 Jenkins CI/CD pipeline with 90%+ test coverage
+
 🌍 Nation DB REST API
 Java • Spring Boot • MySQL • Docker
 
 RESTful API with HATEOAS implementation
 Optimized queries reduced response time by 60%
 Comprehensive Swagger/OpenAPI documentation
+
 🎬 Movie Discovery Platform
 React.js • Node.js • Redis • AWS
 
