@@ -37,43 +37,5 @@ Databases
 PostgreSQL
 MySQL
 MongoDB
-Redis
 
-📌 Featured Projects
-🏥 Cloud-Native Healthcare Analytics Platform
-Spring Boot • React.js • Kafka
-
-Built 5+ Spring Boot microservices with React frontend on AWS
-Achieved 99.9% uptime with Kubernetes orchestration
-Jenkins CI/CD pipeline with 90%+ test coverage
-
-🌍 Nation DB REST API
-Java • Spring Boot • MySQL • Docker
-
-RESTful API with HATEOAS implementation
-Optimized queries reduced response time by 60%
-Comprehensive Swagger/OpenAPI documentation
-
-🎬 Movie Discovery Platform
-React.js • Node.js • Redis • AWS
-
-Full-stack platform with JWT authentication
-Redis caching reduced API calls by 60%
-Deployed on AWS with 90+ Lighthouse score
-📊 GitHub Stats
-GitHub StatsTop Languages
-
-🏆 Certifications
-CompTIA A+ • ITIL Level 4 • Cisco Data Analytics • Google Analytics Advanced • DataCamp SQL
-
-💼 Experience
-Junior Assistant @ Website Design Kingston Nov 2024 - Apr 2025
-
-Engineered Spring Boot microservices with Kafka (30% faster data sync)
-Deployed containerized apps on AWS with 99.9% uptime
-Built Jenkins CI/CD reducing deployment time by 60%
-Code Reviewer @ Scale AI (Freelance) Jan 2024 - May 2024
-
-Conducted code reviews for Spring Boot & React.js applications
-Improved API performance by 40%
 
